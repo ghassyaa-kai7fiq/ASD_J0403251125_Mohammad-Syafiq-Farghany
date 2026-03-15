@@ -1,0 +1,12 @@
+BK001,Pemrograman Python Dasar,150000
+BK002,Struktur Data & Algoritma,200000
+BK003,Database Management,175000
+BK004,Web Development,125000
+BK005,Machine Learning Basic,250000
+BK006,Jaringan Komputer,180000
+BK007,Kecerdasan Buatan,220000
+BK008,Cloud Computing,195000
+BK009,Cyber Security,210000
+BK010,Mobile App Development,165000
+BK011,Atomic Habits,75000
+BK012,Seni Menggunakan Microsoft,88000
